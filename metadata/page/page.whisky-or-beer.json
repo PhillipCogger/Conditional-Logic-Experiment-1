@@ -1,0 +1,27 @@
+{
+  "_id": "page.whisky-or-beer",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.whisky-or-beer--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.whisky-or-beer--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Ale",
+          "value": "poison_ale"
+        },
+        {
+          "_id": "page.whisky-or-beer--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "The hard stuff (AKA whisky)",
+          "value": "poison_whisky"
+        }
+      ],
+      "legend": "What's your poison?",
+      "name": "your-poison"
+    }
+  ],
+  "url": "whisky-or-beer"
+}
