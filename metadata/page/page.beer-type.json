@@ -1,0 +1,27 @@
+{
+  "_id": "page.beer-type",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.beer-type--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.beer-type--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "triple AAA rating",
+          "value": "triple_a"
+        },
+        {
+          "_id": "page.beer-type--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Cheap grog",
+          "value": "grog"
+        }
+      ],
+      "legend": "Type of beer?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "beer-type"
+}

@@ -5,7 +5,9 @@
   "heading": "This is your start page heading",
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
-    "page.whisky-or-beer"
+    "page.whisky-or-beer",
+    "page.beer-type",
+    "page.whisky-type"
   ],
   "url": "/"
 }

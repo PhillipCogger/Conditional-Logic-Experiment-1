@@ -1,0 +1,27 @@
+{
+  "_id": "page.whisky-type",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.whisky-type--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.whisky-type--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "rocket fuel",
+          "value": "rocket_fuel"
+        },
+        {
+          "_id": "page.whisky-type--radios.auto_name__2--radio.auto_value__4",
+          "_type": "radio",
+          "label": "retirement whisky",
+          "value": "retirement_whisky"
+        }
+      ],
+      "legend": "Whisky type?",
+      "name": "whisky-type"
+    }
+  ],
+  "url": "whisky-type"
+}
