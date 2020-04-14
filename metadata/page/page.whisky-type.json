@@ -23,5 +23,10 @@
       "name": "whisky-type"
     }
   ],
+  "show": {
+    "identifier": "your-poison",
+    "operator": "is",
+    "value": "poison_whisky"
+  },
   "url": "whisky-type"
 }
